@@ -16,7 +16,7 @@ const yuri = {
             js: ["ReactJS", "Redux", "ReactTestingLibrary"]
         },
         backEnd: {
-            js: ["firebase", "node"],
+            js: ["node"],
             python: ["Flask", "SQLAlchemy", "Django", "Docker"]
         }        
     }
