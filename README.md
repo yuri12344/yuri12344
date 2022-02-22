@@ -6,7 +6,7 @@
 ### aboutMe.js
 
 ```javascript
-const yuri = {
+const yuricaetano = {
     pronouns: "he" | "him",
     code: ["Javascript", "HTML", "CSS", "ReactJS", "Python", "Flask", "Django", "SQL", "Docker", "Kotlin"],
     askMeAbout: ["web full-stack dev", "tech", "music", "coffee"],
