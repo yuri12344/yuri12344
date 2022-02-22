@@ -17,7 +17,7 @@ const yuri = {
         },
         backEnd: {
             js: ["firebase", "node"],
-            python: ["Flask", "SQLAlchemy", "Django", "Docker", ""]
+            python: ["Flask", "SQLAlchemy", "Django", "Docker"]
         }        
     }
 };
