@@ -8,11 +8,11 @@
 ```javascript
 const yuri = {
     pronouns: "he" | "him",
-    code: [Javascript, HTML, CSS, ReactJS, Python, Flask, Django, SQL, Docker, Kotlin],
+    code: ["Javascript", "HTML", "CSS", "ReactJS", "Python", "Flask", "Django", "SQL", "Docker", "Kotlin"],
     askMeAbout: ["web full-stack dev", "tech", "music", "coffee"],
     technologies: {
         frontEnd: {
-            css: ["bootstrap", "materialize"]
+            css: ["Bootstrap", "Materialize"]
             js: ["ReactJS", "Redux", "ReactTestingLibrary"]
         },
         backEnd: {
